@@ -13,6 +13,12 @@ I tested the implementation on TensorFlow 0.60 and 0.70.
 
 Used images2gif.py written by Almar Klein, Ant1, Marius van Voorden.
 
+# In this fork
+
+Tested in this environment:
+* [Dockerfile](https://github.com/rlan/cppn-tensorflow/Dockerfile) that installs Anaconda 5.01.
+* Conda [environment file](https://github.com/rlan/cppn-tensorflow/conda_env.yml) that installs python 2.7 and tensorflow.
+
 # License
 
 BSD - images2gif.py
